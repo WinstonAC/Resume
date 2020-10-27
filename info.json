@@ -1,0 +1,25 @@
+{
+    "name": "William Campbell",
+    "linkedin": "https://linkedin.com/in/william-campbell-52a7b667",
+    "github": "https://github.com/WinstonAC",
+    "email": "wcampbell0880@gmail.com",
+    "resume": "https:https://drive.google.com/file/d/1t6feuGXsSVAxe6HcjB4LfFNzUUqdcyvZ/view?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "volunteerWork": [
+        "NY Cares",
+        "City of Hope Church",
+        "Dream Center NYC"
+    ]
+}
